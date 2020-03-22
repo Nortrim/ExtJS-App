@@ -1,0 +1,46 @@
+{
+  "peoples": [
+    {
+      "name": "John Doe",
+      "email": "JD@mail.com",
+      "birthDate": "03.02.2020",
+      "profession": "Backend-developer",
+      "id": 1
+    },
+    {
+      "name": "John Gault",
+      "email": "JG@mail.com",
+      "birthDate": "03.02.2020",
+      "profession": "Backend-developer",
+      "id": 2
+    },
+    {
+      "name": "John Travolta",
+      "email": "JT@mail.com",
+      "birthDate": "03.02.2020",
+      "profession": "Backend-developer",
+      "id": 3
+    },
+    {
+      "name": "John Gatsby",
+      "email": "JGat@mail.com",
+      "birthDate": "03.02.2020",
+      "profession": "Backend-developer",
+      "id": 4
+    }
+  ],
+  "professions": [
+    {
+      "name": "Frontend-developer"
+    },
+    {
+      "name": "Backend-developer"
+    },
+    {
+      "name": "QA Engineer"
+    },
+    {
+      "name": "HR"
+    }
+  ]
+}

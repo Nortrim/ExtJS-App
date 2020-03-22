@@ -2,7 +2,6 @@
 bootstrap.*
 classic.json*
 modern.json*
-.sencha
 ext
 node_modules
 .idea

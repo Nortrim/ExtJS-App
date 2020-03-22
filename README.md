@@ -2,7 +2,7 @@
 
 ### ExtJS 6.2.0
 ### Установка:
-#### `sencha app init --ext@6.2.0 --classic TespApp`
+#### `sencha app install`
 ### Запуск:
 #### `sencha app watch`
 
